@@ -1,7 +1,7 @@
 # CustomControlHandlerDemo
 Sample code to demonstrate how to customize existing .NET MAUI controls with handlers
-based off of Gerald Versluis sample code that demonstrates three different ways of 
-customizing an existing .NET Maui control with handlers.
+based off of Gerald Versluis sample code (https://youtu.be/_9dz7BUoxT8) that demonstrates 
+three different ways of customizing an existing .NET Maui control with handlers.
 
 ## Method 1
 In the App startup code write the platform specific code with conditional compile defs. 
